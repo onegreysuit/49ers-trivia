@@ -1,0 +1,331 @@
+/* === Classic BASIC / Computech Mode === */
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+.classic-mode {
+  font-family: 'VT323', 'Courier New', monospace;
+  background: #000;
+  color: #33ff33;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+  z-index: 10;
+  padding: 2rem 1rem;
+}
+
+/* CRT scanline overlay */
+.classic-mode::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0, 0, 0, 0.12) 2px,
+    rgba(0, 0, 0, 0.12) 4px
+  );
+  pointer-events: none;
+  z-index: 1000;
+}
+
+/* CRT glow on all text */
+.classic-mode,
+.classic-mode * {
+  text-shadow: 0 0 5px rgba(51, 255, 51, 0.4);
+}
+
+.classic-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Header */
+.classic-header {
+  text-align: center;
+  border: 2px solid #33ff33;
+  padding: 0.75rem 1rem;
+  margin-bottom: 2rem;
+}
+
+.classic-header h2 {
+  font-size: 1.6rem;
+  letter-spacing: 3px;
+  margin: 0;
+  color: #33ff33;
+}
+
+.classic-header .version {
+  font-size: 1.1rem;
+  opacity: 0.6;
+}
+
+/* Question */
+.classic-question-meta {
+  font-size: 1.3rem;
+  margin-bottom: 1.5rem;
+  opacity: 0.8;
+}
+
+.classic-question-text {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-left: 3px solid #33ff33;
+}
+
+/* Options */
+.classic-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.classic-option {
+  background: transparent;
+  border: 1px solid #1a661a;
+  color: #33ff33;
+  font-family: 'VT323', 'Courier New', monospace;
+  font-size: 1.3rem;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.1s;
+  border-radius: 0;
+  text-shadow: 0 0 5px rgba(51, 255, 51, 0.4);
+}
+
+.classic-option:hover:not(:disabled) {
+  background: #33ff33;
+  color: #000;
+  text-shadow: none;
+  border-color: #33ff33;
+}
+
+.classic-option.correct {
+  background: #33ff33;
+  color: #000;
+  text-shadow: none;
+  border-color: #33ff33;
+}
+
+.classic-option.incorrect {
+  background: #ff3333;
+  color: #000;
+  text-shadow: none;
+  border-color: #ff3333;
+}
+
+.classic-option.dimmed {
+  opacity: 0.25;
+}
+
+.classic-option:disabled {
+  cursor: default;
+}
+
+/* Prompt */
+.classic-prompt {
+  font-size: 1.3rem;
+  min-height: 1.5em;
+}
+
+/* Blink cursor */
+.blink {
+  animation: blink-caret 1s step-end infinite;
+}
+
+@keyframes blink-caret {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+/* Result screen */
+.classic-result {
+  text-align: center;
+  font-size: 1.3rem;
+  line-height: 1.8;
+}
+
+.classic-divider {
+  opacity: 0.5;
+  letter-spacing: 1px;
+}
+
+.classic-score-display {
+  font-size: 1.5rem;
+}
+
+.classic-rating {
+  font-size: 1.5rem;
+}
+
+.classic-categories {
+  text-align: left;
+  font-size: 1.2rem;
+}
+
+.classic-cat-row {
+  display: flex;
+  gap: 0;
+  font-family: 'VT323', 'Courier New', monospace;
+}
+
+.classic-cat-name {
+  flex-shrink: 0;
+}
+
+.classic-cat-dots {
+  flex: 1;
+  overflow: hidden;
+  opacity: 0.4;
+}
+
+.classic-cat-score {
+  flex-shrink: 0;
+  margin-left: 0.5rem;
+}
+
+.classic-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.classic-btn {
+  background: transparent;
+  border: 2px solid #33ff33;
+  color: #33ff33;
+  font-family: 'VT323', 'Courier New', monospace;
+  font-size: 1.3rem;
+  padding: 0.75rem 2rem;
+  cursor: pointer;
+  border-radius: 0;
+  text-shadow: 0 0 5px rgba(51, 255, 51, 0.4);
+  transition: all 0.1s;
+}
+
+.classic-btn:hover {
+  background: #33ff33;
+  color: #000;
+  text-shadow: none;
+}
+
+/* === Mode card preview on Start Screen === */
+.classic-preview {
+  padding: 1.5rem;
+  font-family: 'VT323', 'Courier New', monospace;
+  color: #33ff33;
+  text-shadow: 0 0 5px rgba(51, 255, 51, 0.5);
+}
+
+.classic-preview h2 {
+  font-family: 'VT323', 'Courier New', monospace;
+  font-size: 1.3rem;
+  margin-bottom: 0.5rem;
+  color: #33ff33;
+}
+
+.classic-preview .mode-desc,
+.classic-preview .mode-count {
+  color: #33ff33;
+  opacity: 0.8;
+}
+
+.classic-preview .mode-score {
+  color: #33ff33;
+}
+
+.crt-text {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  opacity: 0.6;
+}
+
+/* === Classic Initials Entry === */
+.classic-initials-input-wrap {
+  display: inline-flex;
+  align-items: center;
+  font-size: 1.5rem;
+}
+
+.classic-initials-input {
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid #33ff33;
+  color: #33ff33;
+  font-family: 'VT323', 'Courier New', monospace;
+  font-size: 1.5rem;
+  width: 4ch;
+  text-align: center;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+  outline: none;
+  text-shadow: 0 0 5px rgba(51, 255, 51, 0.4);
+}
+
+.classic-btn-skip {
+  opacity: 0.6;
+}
+
+.classic-btn-skip:hover {
+  opacity: 1;
+}
+
+/* === Classic Leaderboard === */
+.classic-leaderboard-table {
+  text-align: left;
+  font-size: 1.2rem;
+  line-height: 1.8;
+}
+
+.classic-lb-header-row {
+  display: flex;
+  gap: 0;
+  color: #33ff33;
+  font-size: 1.1rem;
+}
+
+.classic-lb-row {
+  display: flex;
+  gap: 0;
+}
+
+.classic-lb-rank { width: 4ch; flex-shrink: 0; }
+.classic-lb-name { width: 5ch; flex-shrink: 0; letter-spacing: 2px; }
+.classic-lb-score { width: 7ch; flex-shrink: 0; }
+.classic-lb-pct { width: 5ch; flex-shrink: 0; text-align: right; }
+.classic-lb-date { flex: 1; text-align: right; opacity: 0.7; }
+
+/* Responsive */
+@media (max-width: 480px) {
+  .classic-mode {
+    padding: 1rem 0.5rem;
+  }
+
+  .classic-header h2 {
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+  }
+
+  .classic-question-text {
+    font-size: 1.3rem;
+  }
+
+  .classic-option {
+    font-size: 1.1rem;
+  }
+
+  .classic-actions {
+    flex-direction: column;
+    align-items: center;
+  }
+}
