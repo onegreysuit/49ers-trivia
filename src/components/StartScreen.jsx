@@ -10,7 +10,7 @@ export default function StartScreen({ onStart, highScore, classicHighScore, onLe
       {/* Background GIF — The Catch */}
       <div className="start-bg-video">
         <img
-          src="/the-catch.gif"
+          src={`${import.meta.env.BASE_URL}the-catch.gif`}
           alt="The Catch — Dwight Clark, 1982 NFC Championship"
         />
         <div className="start-bg-overlay" />
@@ -18,7 +18,7 @@ export default function StartScreen({ onStart, highScore, classicHighScore, onLe
 
       <div className="start-content">
         <div className="logo-container">
-          <img src="/49ers-helmet.png" alt="San Francisco 49ers Helmet" className="helmet-logo" />
+          <img src={`${import.meta.env.BASE_URL}49ers-helmet.png`} alt="San Francisco 49ers Helmet" className="helmet-logo" />
         </div>
         <h1>49ers Trivia</h1>
         <p className="tagline">Test your Faithful knowledge</p>
