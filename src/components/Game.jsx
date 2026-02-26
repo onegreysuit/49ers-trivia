@@ -19,8 +19,8 @@ function shuffle(arr) {
   return a;
 }
 
-const QUESTION_COUNT = 20;
-const CLASSIC_QUESTION_COUNT = 20;
+const QUESTION_COUNT = 16;
+const CLASSIC_QUESTION_COUNT = 16;
 
 export default function Game() {
   const [phase, setPhase] = useState('start');

@@ -35,7 +35,7 @@ export default function StartScreen({ onStart, highScore, classicHighScore, onLe
           <button className="mode-card modern-card" onClick={() => onStart('modern')}>
             <h2>Modern Mode</h2>
             <p className="mode-desc">All eras of 49ers history</p>
-            <p className="mode-count">20 questions</p>
+            <p className="mode-count">16 questions</p>
             {highScore > 0 && <p className="mode-score">Best: {highScore}%</p>}
           </button>
 
@@ -46,7 +46,7 @@ export default function StartScreen({ onStart, highScore, classicHighScore, onLe
               </div>
               <h2>Classic Mode aka<br />4th Grade AY Mode</h2>
               <p className="mode-desc">PRE-1984 QUESTIONS ONLY</p>
-              <p className="mode-count">20 QUESTIONS</p>
+              <p className="mode-count">16 QUESTIONS</p>
               {classicHighScore > 0 && <p className="mode-score">BEST: {classicHighScore}%</p>}
               <div className="crt-text">
                 <span className="prompt-symbol">&gt;</span> RUN<span className="blink">_</span>
