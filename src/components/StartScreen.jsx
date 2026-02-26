@@ -1,9 +1,17 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { getLeaderboard } from './Leaderboard';
+import { fetchCloudLeaderboard } from '../services/leaderboardService';
 
 export default function StartScreen({ onStart, highScore, classicHighScore, onLeaderboard }) {
   const [lbMode, setLbMode] = useState('modern');
-  const board = getLeaderboard(lbMode);
+  const [board, setBoard] = useState(() => getLeaderboard('modern'));
+
+  useEffect(() => {
+    setBoard(getLeaderboard(lbMode));
+    fetchCloudLeaderboard(lbMode).then((cloudData) => {
+      if (cloudData !== null) setBoard(cloudData);
+    });
+  }, [lbMode]);
 
   return (
     <div className="start-screen">

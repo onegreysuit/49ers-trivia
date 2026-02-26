@@ -1,6 +1,16 @@
+import { useState, useEffect } from 'react';
+import { fetchCloudLeaderboard, postCloudScore } from '../services/leaderboardService';
+
 export default function Leaderboard({ mode, onBack, onSwitchMode }) {
-  const board = getLeaderboard(mode);
+  const [board, setBoard] = useState(() => getLeaderboard(mode));
   const otherMode = mode === 'modern' ? 'classic' : 'modern';
+
+  useEffect(() => {
+    setBoard(getLeaderboard(mode));
+    fetchCloudLeaderboard(mode).then((cloudData) => {
+      if (cloudData !== null) setBoard(cloudData);
+    });
+  }, [mode]);
 
   if (mode === 'classic') {
     const divider = '\u2550'.repeat(38);
@@ -112,5 +122,6 @@ export function saveToLeaderboard(mode, entry) {
   board.sort((a, b) => b.pct - a.pct || new Date(b.date) - new Date(a.date));
   const top10 = board.slice(0, 10);
   localStorage.setItem(`49ers-leaderboard-${mode}`, JSON.stringify(top10));
+  postCloudScore(mode, entry);
   return top10;
 }
