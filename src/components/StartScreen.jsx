@@ -54,7 +54,7 @@ export default function StartScreen({ onStart, highScore, classicHighScore, onLe
         </div>
 
         {/* Persistent Top 10 Leaderboard */}
-        <div className="start-leaderboard">
+        <div className={`start-leaderboard ${lbMode === 'classic' ? 'start-leaderboard-classic' : ''}`}>
           <h3 className="start-lb-title">Top 10</h3>
           <div className="start-lb-tabs">
             <button

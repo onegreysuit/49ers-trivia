@@ -593,6 +593,35 @@ body {
   background: rgba(179, 153, 93, 0.15);
 }
 
+/* Classic tab — 49ers red */
+.start-lb-tab:last-child {
+  border-color: var(--scarlet);
+  color: var(--scarlet);
+}
+
+.start-lb-tab:last-child.active {
+  background: var(--scarlet);
+  color: white;
+}
+
+.start-lb-tab:last-child:not(.active):hover {
+  background: rgba(170, 0, 0, 0.15);
+}
+
+/* Classic leaderboard accents on start screen */
+.start-leaderboard-classic {
+  border-color: rgba(170, 0, 0, 0.25);
+}
+
+.start-leaderboard-classic .start-lb-title {
+  color: var(--scarlet);
+}
+
+.start-leaderboard-classic .start-lb-header {
+  border-bottom-color: var(--scarlet);
+  color: var(--scarlet);
+}
+
 .start-lb-empty {
   color: var(--text-muted);
   font-size: 0.9rem;
@@ -786,6 +815,21 @@ body {
 
 .lb-tab:not(.active):hover {
   background: rgba(179, 153, 93, 0.15);
+}
+
+/* Classic tab — 49ers red */
+.lb-tab:last-child {
+  border-color: var(--scarlet);
+  color: var(--scarlet);
+}
+
+.lb-tab:last-child.active {
+  background: var(--scarlet);
+  color: white;
+}
+
+.lb-tab:last-child:not(.active):hover {
+  background: rgba(170, 0, 0, 0.15);
 }
 
 .lb-empty {
