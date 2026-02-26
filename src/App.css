@@ -109,7 +109,7 @@ body {
 .start-screen h1 {
   font-size: 2.5rem;
   font-weight: 800;
-  color: var(--gold);
+  color: #AA0000;
   margin-bottom: 0.5rem;
   text-transform: uppercase;
   letter-spacing: 2px;
