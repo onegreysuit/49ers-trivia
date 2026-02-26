@@ -29,13 +29,12 @@ export default function StartScreen({ onStart, highScore, classicHighScore, onLe
           <img src={`${import.meta.env.BASE_URL}49ers-helmet.png`} alt="San Francisco 49ers Helmet" className="helmet-logo" />
         </div>
         <h1>49ers Trivia</h1>
-        <p className="tagline">Test your Faithful knowledge</p>
+        <p className="tagline">Test your Faithful knowledge by answering 16 questions in honor of the jersey number of the greatest quarterback of all time, Joe Montana</p>
 
         <div className="mode-select">
           <button className="mode-card modern-card" onClick={() => onStart('modern')}>
             <h2>Modern Mode</h2>
             <p className="mode-desc">Post-1984 questions</p>
-            <p className="mode-count">16 questions</p>
             {highScore > 0 && <p className="mode-score">Best: {highScore}%</p>}
           </button>
 
@@ -46,7 +45,6 @@ export default function StartScreen({ onStart, highScore, classicHighScore, onLe
               </div>
               <h2>Classic Mode aka<br />4th Grade AY Mode</h2>
               <p className="mode-desc">PRE-1984 QUESTIONS ONLY</p>
-              <p className="mode-count">16 QUESTIONS</p>
               {classicHighScore > 0 && <p className="mode-score">BEST: {classicHighScore}%</p>}
               <div className="crt-text">
                 <span className="prompt-symbol">&gt;</span> RUN<span className="blink">_</span>

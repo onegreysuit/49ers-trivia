@@ -234,13 +234,16 @@ body {
 
 /* === Mode Selection === */
 .mode-select {
-  display: flex;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 1.5rem;
   margin: 2rem 0;
 }
 
 .mode-card {
-  flex: 1;
+  box-sizing: border-box;
+  min-width: 0;
+  overflow: hidden;
   padding: 1.5rem;
   border-radius: 12px;
   cursor: pointer;
@@ -850,7 +853,7 @@ body {
   .question-text { font-size: 1.1rem; }
   .app { padding: 1.5rem 0.75rem; }
   .cat-name { width: 90px; font-size: 0.8rem; }
-  .mode-select { flex-direction: column; }
+  .mode-select { grid-template-columns: 1fr; }
   .helmet-logo { width: 100px; }
   .start-bg-video { display: none; }
   .start-leaderboard { padding: 1rem; }
