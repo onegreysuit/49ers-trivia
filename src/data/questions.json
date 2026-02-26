@@ -12,30 +12,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "Which 49ers quarterback was named Super Bowl MVP in Super Bowl XVI?",
-    "options": [
-      "Joe Montana",
-      "Steve Young",
-      "John Brodie",
-      "Jeff Garcia"
-    ],
-    "answer": "Joe Montana",
-    "category": "Super Bowls",
-    "difficulty": "easy"
-  },
-  {
-    "question": "In what year did the 49ers win their first Super Bowl?",
-    "options": [
-      "1979",
-      "1981",
-      "1982",
-      "1984"
-    ],
-    "answer": "1981",
-    "category": "Super Bowls",
-    "difficulty": "medium"
-  },
-  {
     "question": "Who did the 49ers defeat in Super Bowl XXIII with the iconic final drive?",
     "options": [
       "Miami Dolphins",
@@ -132,18 +108,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "Who was the 49ers head coach for their first Super Bowl victory?",
-    "options": [
-      "George Seifert",
-      "Bill Walsh",
-      "Dick Nolan",
-      "Monte Clark"
-    ],
-    "answer": "Bill Walsh",
-    "category": "Coaches",
-    "difficulty": "easy"
-  },
-  {
     "question": "Bill Walsh is credited with popularizing which offensive scheme?",
     "options": [
       "Run and Shoot",
@@ -216,18 +180,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "Joe Montana was drafted by the 49ers in what round of the 1979 NFL Draft?",
-    "options": [
-      "1st",
-      "2nd",
-      "3rd",
-      "4th"
-    ],
-    "answer": "3rd",
-    "category": "Players",
-    "difficulty": "medium"
-  },
-  {
     "question": "Jerry Rice holds the NFL record for most career touchdown receptions. How many did he score?",
     "options": [
       "175",
@@ -250,18 +202,6 @@
     "answer": "Roger Craig",
     "category": "Players",
     "difficulty": "medium"
-  },
-  {
-    "question": "What jersey number did Joe Montana wear?",
-    "options": [
-      "12",
-      "16",
-      "7",
-      "19"
-    ],
-    "answer": "16",
-    "category": "Players",
-    "difficulty": "easy"
   },
   {
     "question": "Which 49ers safety was known as Hitman and wore #42?",
@@ -296,18 +236,6 @@
       "1993"
     ],
     "answer": "1991",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers player was nicknamed The Waterbug for his elusive running style?",
-    "options": [
-      "Roger Craig",
-      "Garrison Hearst",
-      "Joe Perry",
-      "Hugh McElhenny"
-    ],
-    "answer": "Hugh McElhenny",
     "category": "Players",
     "difficulty": "hard"
   },
@@ -432,78 +360,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "Which wide receiver caught The Catch from Montana in the 1981 NFC Championship?",
-    "options": [
-      "Freddie Solomon",
-      "Dwight Clark",
-      "Mike Wilson",
-      "Earl Cooper"
-    ],
-    "answer": "Dwight Clark",
-    "category": "History",
-    "difficulty": "easy"
-  },
-  {
-    "question": "Who were the 49ers playing when Dwight Clark made The Catch?",
-    "options": [
-      "Los Angeles Rams",
-      "Chicago Bears",
-      "Dallas Cowboys",
-      "New York Giants"
-    ],
-    "answer": "Dallas Cowboys",
-    "category": "History",
-    "difficulty": "easy"
-  },
-  {
-    "question": "In what year was the San Francisco 49ers franchise founded?",
-    "options": [
-      "1944",
-      "1946",
-      "1950",
-      "1953"
-    ],
-    "answer": "1946",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "The 49ers were the first major professional sports franchise in which part of the US?",
-    "options": [
-      "Pacific Northwest",
-      "Rocky Mountain Region",
-      "West Coast",
-      "Southwest"
-    ],
-    "answer": "West Coast",
-    "category": "History",
-    "difficulty": "medium"
-  },
-  {
-    "question": "What does the name 49ers reference?",
-    "options": [
-      "The year 1949",
-      "Gold Rush prospectors of 1849",
-      "49 original players",
-      "Highway 49"
-    ],
-    "answer": "Gold Rush prospectors of 1849",
-    "category": "History",
-    "difficulty": "easy"
-  },
-  {
-    "question": "Who was the first pick of the 49ers in the AAFC draft, becoming the franchise first star?",
-    "options": [
-      "Frankie Albert",
-      "Y.A. Tittle",
-      "Hugh McElhenny",
-      "Joe Perry"
-    ],
-    "answer": "Frankie Albert",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
     "question": "Which 49ers owner oversaw the dynasty years of the 1980s and early 1990s?",
     "options": [
       "Jed York",
@@ -540,18 +396,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "What was the name of the 49ers home stadium from 1971 to 2013?",
-    "options": [
-      "Kezar Stadium",
-      "Candlestick Park",
-      "Levis Stadium",
-      "Monster Park"
-    ],
-    "answer": "Candlestick Park",
-    "category": "Stadiums",
-    "difficulty": "easy"
-  },
-  {
     "question": "Where is Levis Stadium located?",
     "options": [
       "San Francisco",
@@ -574,18 +418,6 @@
     "answer": "Both 3Com Park and Monster Park",
     "category": "Stadiums",
     "difficulty": "hard"
-  },
-  {
-    "question": "What stadium did the 49ers play in before Candlestick Park?",
-    "options": [
-      "Kezar Stadium",
-      "Seals Stadium",
-      "Municipal Stadium",
-      "Golden Gate Fields"
-    ],
-    "answer": "Kezar Stadium",
-    "category": "Stadiums",
-    "difficulty": "medium"
   },
   {
     "question": "In what year did Levis Stadium open?",
@@ -948,18 +780,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "Kezar Stadium is located in which San Francisco park?",
-    "options": [
-      "Dolores Park",
-      "Golden Gate Park",
-      "Balboa Park",
-      "McLaren Park"
-    ],
-    "answer": "Golden Gate Park",
-    "category": "Stadiums",
-    "difficulty": "medium"
-  },
-  {
     "question": "In what year did the 49ers play their final game at Candlestick Park?",
     "options": [
       "2011",
@@ -1188,18 +1008,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "The 49ers famous Alley-Oop play of the 1950s featured which quarterback throwing high passes to R.C. Owens?",
-    "options": [
-      "Frankie Albert",
-      "John Brodie",
-      "Y.A. Tittle",
-      "Bob Waters"
-    ],
-    "answer": "Y.A. Tittle",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
     "question": "How many Super Bowls did Joe Montana win with the 49ers?",
     "options": [
       "3",
@@ -1332,18 +1140,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "What college did Joe Montana attend?",
-    "options": [
-      "USC",
-      "Notre Dame",
-      "Stanford",
-      "UCLA"
-    ],
-    "answer": "Notre Dame",
-    "category": "Players",
-    "difficulty": "easy"
-  },
-  {
     "question": "What college did Jerry Rice attend?",
     "options": [
       "Alabama",
@@ -1352,18 +1148,6 @@
       "Grambling State"
     ],
     "answer": "Mississippi Valley State",
-    "category": "Players",
-    "difficulty": "easy"
-  },
-  {
-    "question": "Who caught 'The Catch' from Joe Montana in the 1981 NFC Championship Game?",
-    "options": [
-      "Freddie Solomon",
-      "Dwight Clark",
-      "Jerry Rice",
-      "John Taylor"
-    ],
-    "answer": "Dwight Clark",
     "category": "Players",
     "difficulty": "easy"
   },
@@ -1390,18 +1174,6 @@
     "answer": "Wide Receiver",
     "category": "Players",
     "difficulty": "easy"
-  },
-  {
-    "question": "In what round was Joe Montana drafted by the 49ers in 1979?",
-    "options": [
-      "1st",
-      "2nd",
-      "3rd",
-      "4th"
-    ],
-    "answer": "3rd",
-    "category": "Players",
-    "difficulty": "medium"
   },
   {
     "question": "How many career touchdown passes did Joe Montana throw as a 49er?",
@@ -1484,18 +1256,6 @@
       "Middle finger"
     ],
     "answer": "Pinky finger",
-    "category": "Players",
-    "difficulty": "medium"
-  },
-  {
-    "question": "In what year was Ronnie Lott drafted by the 49ers?",
-    "options": [
-      "1979",
-      "1981",
-      "1982",
-      "1980"
-    ],
-    "answer": "1981",
     "category": "Players",
     "difficulty": "medium"
   },
@@ -1704,30 +1464,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "In what year was Joe Montana drafted?",
-    "options": [
-      "1978",
-      "1979",
-      "1980",
-      "1981"
-    ],
-    "answer": "1979",
-    "category": "Players",
-    "difficulty": "medium"
-  },
-  {
-    "question": "What was Joe Montana's draft pick number in 1979?",
-    "options": [
-      "55th",
-      "72nd",
-      "82nd",
-      "99th"
-    ],
-    "answer": "82nd",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
     "question": "Joe Montana finished his career playing for which team?",
     "options": [
       "San Francisco 49ers",
@@ -1870,114 +1606,6 @@
     "answer": "Concussions",
     "category": "Players",
     "difficulty": "easy"
-  },
-  {
-    "question": "Which 49ers Hall of Famer was nicknamed 'The King'?",
-    "options": [
-      "Joe Perry",
-      "Hugh McElhenny",
-      "Y.A. Tittle",
-      "Leo Nomellini"
-    ],
-    "answer": "Hugh McElhenny",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Y.A. Tittle played for the 49ers before finishing his career with which team?",
-    "options": [
-      "Green Bay Packers",
-      "Baltimore Colts",
-      "New York Giants",
-      "Chicago Bears"
-    ],
-    "answer": "New York Giants",
-    "category": "Players",
-    "difficulty": "medium"
-  },
-  {
-    "question": "What position did Leo Nomellini play?",
-    "options": [
-      "Linebacker",
-      "Defensive Tackle",
-      "Offensive Guard",
-      "Defensive End"
-    ],
-    "answer": "Defensive Tackle",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Leo Nomellini was the 49ers' first-ever NFL Draft pick in which year?",
-    "options": [
-      "1948",
-      "1949",
-      "1950",
-      "1951"
-    ],
-    "answer": "1950",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers quarterback led the NFL in passing yards in 1965 and 1970?",
-    "options": [
-      "Y.A. Tittle",
-      "George Mira",
-      "John Brodie",
-      "Steve Spurrier"
-    ],
-    "answer": "John Brodie",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "John Brodie won the NFL MVP award in which year?",
-    "options": [
-      "1968",
-      "1970",
-      "1972",
-      "1965"
-    ],
-    "answer": "1970",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers wide receiver won the NFL Rookie of the Year award in 1965?",
-    "options": [
-      "Gene Washington",
-      "Dave Parks",
-      "Bernie Casey",
-      "Clifton McNeil"
-    ],
-    "answer": "Dave Parks",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "49ers defensive back Jimmy Johnson was inducted into the Pro Football Hall of Fame in what year?",
-    "options": [
-      "1990",
-      "1992",
-      "1994",
-      "1996"
-    ],
-    "answer": "1994",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What position did Jimmy Johnson play for the 49ers?",
-    "options": [
-      "Safety",
-      "Linebacker",
-      "Cornerback",
-      "Defensive End"
-    ],
-    "answer": "Cornerback",
-    "category": "Players",
-    "difficulty": "hard"
   },
   {
     "question": "Brock Purdy was the ____ overall pick in the 2022 NFL Draft.",
@@ -2220,102 +1848,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "Which 49ers great had jersey number 34 retired?",
-    "options": [
-      "Roger Craig",
-      "Joe Perry",
-      "Garrison Hearst",
-      "Ken Willard"
-    ],
-    "answer": "Joe Perry",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers Hall of Famer had jersey number 73 retired?",
-    "options": [
-      "Bob St. Clair",
-      "Leo Nomellini",
-      "Len Rohde",
-      "Keith Fahnhorst"
-    ],
-    "answer": "Leo Nomellini",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers offensive lineman had jersey number 79 retired?",
-    "options": [
-      "Randy Cross",
-      "Leo Nomellini",
-      "Bob St. Clair",
-      "Guy McIntyre"
-    ],
-    "answer": "Bob St. Clair",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Jersey number 39 was retired for which 49ers player?",
-    "options": [
-      "Merton Hanks",
-      "Roger Craig",
-      "Hugh McElhenny",
-      "Gale Sayers"
-    ],
-    "answer": "Hugh McElhenny",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Jersey number 70 was retired for which 49ers player?",
-    "options": [
-      "Leo Nomellini",
-      "Charlie Krueger",
-      "Bob St. Clair",
-      "Bryant Young"
-    ],
-    "answer": "Charlie Krueger",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What jersey number did Ronnie Lott wear with the 49ers?",
-    "options": [
-      "22",
-      "42",
-      "24",
-      "32"
-    ],
-    "answer": "42",
-    "category": "Players",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Jersey number 12 was retired for which 49ers quarterback?",
-    "options": [
-      "John Brodie",
-      "Y.A. Tittle",
-      "Frankie Albert",
-      "Jeff Garcia"
-    ],
-    "answer": "John Brodie",
-    "category": "Players",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Joe Perry was the first African American to rush for how many career yards?",
-    "options": [
-      "5,000",
-      "7,000",
-      "8,000",
-      "10,000"
-    ],
-    "answer": "7,000",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
     "question": "In how many Super Bowls did Jerry Rice score a touchdown?",
     "options": [
       "2",
@@ -2388,18 +1920,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "What college did Ronnie Lott attend?",
-    "options": [
-      "UCLA",
-      "USC",
-      "Stanford",
-      "Cal"
-    ],
-    "answer": "USC",
-    "category": "Players",
-    "difficulty": "medium"
-  },
-  {
     "question": "How many interceptions did Ronnie Lott record during his 49ers career?",
     "options": [
       "41",
@@ -2422,30 +1942,6 @@
     "answer": "9",
     "category": "Players",
     "difficulty": "hard"
-  },
-  {
-    "question": "What was Roger Craig's jersey number?",
-    "options": [
-      "44",
-      "33",
-      "21",
-      "38"
-    ],
-    "answer": "33",
-    "category": "Players",
-    "difficulty": "medium"
-  },
-  {
-    "question": "What college did Roger Craig attend?",
-    "options": [
-      "USC",
-      "Nebraska",
-      "Oklahoma",
-      "Michigan"
-    ],
-    "answer": "Nebraska",
-    "category": "Players",
-    "difficulty": "medium"
   },
   {
     "question": "How many yards did Jerry Rice gain in Super Bowl XXIII?",
@@ -2988,30 +2484,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "Which 49ers Hall of Fame offensive tackle was also a San Francisco city supervisor?",
-    "options": [
-      "Leo Nomellini",
-      "Bob St. Clair",
-      "Len Rohde",
-      "Keith Fahnhorst"
-    ],
-    "answer": "Bob St. Clair",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Bob St. Clair was famously known for eating what unusual food?",
-    "options": [
-      "Insects",
-      "Raw meat",
-      "Dirt",
-      "Glass"
-    ],
-    "answer": "Raw meat",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
     "question": "Which 49ers running back holds the franchise record for most rushing touchdowns in a single season with 16?",
     "options": [
       "Frank Gore",
@@ -3032,30 +2504,6 @@
       "5"
     ],
     "answer": "3",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers Hall of Famer was the first African American player in franchise history?",
-    "options": [
-      "Joe Perry",
-      "Hugh McElhenny",
-      "Y.A. Tittle",
-      "Bob St. Clair"
-    ],
-    "answer": "Joe Perry",
-    "category": "Players",
-    "difficulty": "medium"
-  },
-  {
-    "question": "What was Joe Perry's nickname?",
-    "options": [
-      "The Express",
-      "The Jet",
-      "The Rocket",
-      "The Flash"
-    ],
-    "answer": "The Jet",
     "category": "Players",
     "difficulty": "hard"
   },
@@ -3468,18 +2916,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "Which 49ers Hall of Fame safety played from 1981 to 1990?",
-    "options": [
-      "Carlton Williamson",
-      "Jeff Fuller",
-      "Ronnie Lott",
-      "Tim McKyer"
-    ],
-    "answer": "Ronnie Lott",
-    "category": "Players",
-    "difficulty": "easy"
-  },
-  {
     "question": "In how many Super Bowls did Ronnie Lott play for the 49ers?",
     "options": [
       "3",
@@ -3792,42 +3228,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "Which 49ers Hall of Famer was a member of the team's original 'Million Dollar Backfield'?",
-    "options": [
-      "Joe Montana",
-      "Y.A. Tittle",
-      "John Henry Johnson",
-      "Steve Young"
-    ],
-    "answer": "John Henry Johnson",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "The 49ers' 'Million Dollar Backfield' featured Y.A. Tittle, Joe Perry, Hugh McElhenny, and who?",
-    "options": [
-      "Frankie Albert",
-      "John Henry Johnson",
-      "Hardy Brown",
-      "Bob St. Clair"
-    ],
-    "answer": "John Henry Johnson",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers player recovered a fumble in the end zone to score in Super Bowl XVI?",
-    "options": [
-      "Ronnie Lott",
-      "Eric Wright",
-      "Dan Bunz",
-      "Jim Stuckey"
-    ],
-    "answer": "Jim Stuckey",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
     "question": "Who holds the 49ers record for most receiving yards in a single season?",
     "options": [
       "Terrell Owens",
@@ -3860,18 +3260,6 @@
       "1,702"
     ],
     "answer": "1,848",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers receiver was nicknamed 'World' and played in the 1970s?",
-    "options": [
-      "Gene Washington",
-      "Freddie Solomon",
-      "Dwight Clark",
-      "Charlie Krueger"
-    ],
-    "answer": "Gene Washington",
     "category": "Players",
     "difficulty": "hard"
   },
@@ -4188,18 +3576,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "Who was the MVP of Super Bowl XVI?",
-    "options": [
-      "Ronnie Lott",
-      "Dwight Clark",
-      "Joe Montana",
-      "Freddie Solomon"
-    ],
-    "answer": "Joe Montana",
-    "category": "Players",
-    "difficulty": "easy"
-  },
-  {
     "question": "In Super Bowl XXIV, Joe Montana threw how many touchdown passes?",
     "options": [
       "3",
@@ -4256,18 +3632,6 @@
       "NFL Europe"
     ],
     "answer": "CFL",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers wide receiver from the 1970s-80s was known for his acrobatic catches and wore number 88?",
-    "options": [
-      "Gene Washington",
-      "Freddie Solomon",
-      "Dwight Clark",
-      "Renaldo Nehemiah"
-    ],
-    "answer": "Freddie Solomon",
     "category": "Players",
     "difficulty": "hard"
   },
@@ -4440,18 +3804,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "Which 49ers receiver had the nickname 'World' and played in the early 1970s?",
-    "options": [
-      "Freddie Solomon",
-      "Gene Washington",
-      "Vic Washington",
-      "Clifton McNeil"
-    ],
-    "answer": "Gene Washington",
-    "category": "Players",
-    "difficulty": "hard"
-  },
-  {
     "question": "Roger Craig scored how many total touchdowns in Super Bowl XIX?",
     "options": [
       "2",
@@ -4476,30 +3828,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "In what year were the San Francisco 49ers founded?",
-    "options": [
-      "1944",
-      "1946",
-      "1948",
-      "1950"
-    ],
-    "answer": "1946",
-    "category": "History",
-    "difficulty": "easy"
-  },
-  {
-    "question": "The 49ers were the first major professional sports franchise based in which city?",
-    "options": [
-      "San Francisco",
-      "Los Angeles",
-      "Oakland",
-      "San Diego"
-    ],
-    "answer": "San Francisco",
-    "category": "History",
-    "difficulty": "easy"
-  },
-  {
     "question": "Who was the original owner of the San Francisco 49ers?",
     "options": [
       "Eddie DeBartolo Jr.",
@@ -4522,90 +3850,6 @@
     "answer": "The California Gold Rush of 1849",
     "category": "History",
     "difficulty": "easy"
-  },
-  {
-    "question": "In which league did the 49ers originally play before joining the NFL?",
-    "options": [
-      "AFL",
-      "AAFC",
-      "USFL",
-      "WFL"
-    ],
-    "answer": "AAFC",
-    "category": "History",
-    "difficulty": "medium"
-  },
-  {
-    "question": "What does AAFC stand for, the league the 49ers first played in?",
-    "options": [
-      "American Association of Football Clubs",
-      "All-America Football Conference",
-      "American Athletic Football Conference",
-      "Allied American Football Conference"
-    ],
-    "answer": "All-America Football Conference",
-    "category": "History",
-    "difficulty": "medium"
-  },
-  {
-    "question": "In what year did the 49ers join the NFL?",
-    "options": [
-      "1946",
-      "1948",
-      "1950",
-      "1952"
-    ],
-    "answer": "1950",
-    "category": "History",
-    "difficulty": "easy"
-  },
-  {
-    "question": "Which team dominated the AAFC, preventing the 49ers from winning a championship in that league?",
-    "options": [
-      "New York Yankees",
-      "Cleveland Browns",
-      "Los Angeles Dons",
-      "Baltimore Colts"
-    ],
-    "answer": "Cleveland Browns",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Who was the 49ers' first head coach?",
-    "options": [
-      "Buck Shaw",
-      "Red Hickey",
-      "Frankie Albert",
-      "Jack Christiansen"
-    ],
-    "answer": "Buck Shaw",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Where did the 49ers play their home games from 1971 to 2013?",
-    "options": [
-      "Kezar Stadium",
-      "Candlestick Park",
-      "Levi's Stadium",
-      "Oracle Park"
-    ],
-    "answer": "Candlestick Park",
-    "category": "History",
-    "difficulty": "easy"
-  },
-  {
-    "question": "What was the name of the 49ers' home stadium before Candlestick Park?",
-    "options": [
-      "Kezar Stadium",
-      "Seals Stadium",
-      "Balboa Stadium",
-      "Golden Gate Park Stadium"
-    ],
-    "answer": "Kezar Stadium",
-    "category": "History",
-    "difficulty": "medium"
   },
   {
     "question": "In what year did the 49ers move to Levi's Stadium in Santa Clara?",
@@ -4642,90 +3886,6 @@
     "answer": "Super Bowl XVI",
     "category": "History",
     "difficulty": "medium"
-  },
-  {
-    "question": "Who did the 49ers defeat in Super Bowl XVI?",
-    "options": [
-      "Miami Dolphins",
-      "Cincinnati Bengals",
-      "Dallas Cowboys",
-      "Pittsburgh Steelers"
-    ],
-    "answer": "Cincinnati Bengals",
-    "category": "History",
-    "difficulty": "medium"
-  },
-  {
-    "question": "In what year did the 49ers win Super Bowl XVI?",
-    "options": [
-      "1980",
-      "1981",
-      "1982",
-      "1983"
-    ],
-    "answer": "1982",
-    "category": "History",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Who was named MVP of Super Bowl XVI?",
-    "options": [
-      "Joe Montana",
-      "Ronnie Lott",
-      "Freddie Solomon",
-      "Earl Cooper"
-    ],
-    "answer": "Joe Montana",
-    "category": "History",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Which famous play, a last-minute touchdown pass from Montana to Clark, beat the Cowboys in the 1981 NFC Championship?",
-    "options": [
-      "The Immaculate Reception",
-      "The Catch",
-      "The Drive",
-      "The Miracle at the Meadowlands"
-    ],
-    "answer": "The Catch",
-    "category": "History",
-    "difficulty": "easy"
-  },
-  {
-    "question": "What was the score of the 1981 NFC Championship Game when Montana threw 'The Catch'?",
-    "options": [
-      "28-27",
-      "35-31",
-      "21-17",
-      "31-28"
-    ],
-    "answer": "28-27",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "In what year was Bill Walsh hired as head coach of the 49ers?",
-    "options": [
-      "1977",
-      "1978",
-      "1979",
-      "1980"
-    ],
-    "answer": "1979",
-    "category": "History",
-    "difficulty": "medium"
-  },
-  {
-    "question": "What was the 49ers' record in Bill Walsh's first season (1979)?",
-    "options": [
-      "2-14",
-      "4-12",
-      "6-10",
-      "8-8"
-    ],
-    "answer": "2-14",
-    "category": "History",
-    "difficulty": "hard"
   },
   {
     "question": "What offensive system did Bill Walsh develop and implement with the 49ers?",
@@ -4992,126 +4152,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "The 'Million Dollar Backfield' of the 1950s featured all of the following EXCEPT which player?",
-    "options": [
-      "Y.A. Tittle",
-      "Hugh McElhenny",
-      "John Brodie",
-      "Joe Perry"
-    ],
-    "answer": "John Brodie",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which member of the Million Dollar Backfield was nicknamed 'The King'?",
-    "options": [
-      "Y.A. Tittle",
-      "Joe Perry",
-      "Hugh McElhenny",
-      "John Henry Johnson"
-    ],
-    "answer": "Hugh McElhenny",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Who was the first 49er to be inducted into the Pro Football Hall of Fame?",
-    "options": [
-      "Hugh McElhenny",
-      "Y.A. Tittle",
-      "Joe Perry",
-      "Leo Nomellini"
-    ],
-    "answer": "Joe Perry",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Joe Perry was a pioneer as one of the first African American players in which league?",
-    "options": [
-      "NFL",
-      "AAFC",
-      "AFL",
-      "USFL"
-    ],
-    "answer": "AAFC",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers quarterback started from 1957 to 1973, the longest tenure as starter in franchise history at that time?",
-    "options": [
-      "Y.A. Tittle",
-      "Frankie Albert",
-      "John Brodie",
-      "Steve Spurrier"
-    ],
-    "answer": "John Brodie",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "John Brodie won the NFL MVP award in which season?",
-    "options": [
-      "1965",
-      "1968",
-      "1970",
-      "1972"
-    ],
-    "answer": "1970",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which head coach led the 49ers to three consecutive NFC Championship Game appearances from 1970 to 1972?",
-    "options": [
-      "Bill Walsh",
-      "Jack Christiansen",
-      "Dick Nolan",
-      "Buck Shaw"
-    ],
-    "answer": "Dick Nolan",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Who was the 49ers' head coach immediately before Bill Walsh?",
-    "options": [
-      "Dick Nolan",
-      "Monte Clark",
-      "Ken Meyer",
-      "Fred O'Connor"
-    ],
-    "answer": "Fred O'Connor",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "In what round of the 1979 NFL Draft did the 49ers select Joe Montana?",
-    "options": [
-      "1st round",
-      "2nd round",
-      "3rd round",
-      "4th round"
-    ],
-    "answer": "3rd round",
-    "category": "History",
-    "difficulty": "medium"
-  },
-  {
-    "question": "What was Joe Montana's overall pick number in the 1979 NFL Draft?",
-    "options": [
-      "72nd",
-      "82nd",
-      "92nd",
-      "102nd"
-    ],
-    "answer": "82nd",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
     "question": "From which college did the 49ers draft Joe Montana?",
     "options": [
       "Stanford",
@@ -5146,18 +4186,6 @@
     "answer": "Mississippi Valley State",
     "category": "History",
     "difficulty": "medium"
-  },
-  {
-    "question": "Which safety, drafted 8th overall in 1981, became a cornerstone of the 49ers dynasty defense?",
-    "options": [
-      "Eric Wright",
-      "Carlton Williamson",
-      "Ronnie Lott",
-      "Jeff Fuller"
-    ],
-    "answer": "Ronnie Lott",
-    "category": "History",
-    "difficulty": "easy"
   },
   {
     "question": "From which university did the 49ers draft Ronnie Lott?",
@@ -5712,18 +4740,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "How many times did the 49ers and Cowboys meet in the NFC Championship Game during the 1981-1994 span?",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
     "question": "Which team won the 1992 NFC Championship Game, 49ers or Cowboys?",
     "options": [
       "49ers 30-20",
@@ -5806,18 +4822,6 @@
     "answer": "Seattle Seahawks",
     "category": "History",
     "difficulty": "easy"
-  },
-  {
-    "question": "Which team was in the NFC West with the 49ers in the 1970s and 1980s but is now in the NFC South?",
-    "options": [
-      "New Orleans Saints",
-      "Carolina Panthers",
-      "Tampa Bay Buccaneers",
-      "Atlanta Falcons"
-    ],
-    "answer": "Atlanta Falcons",
-    "category": "History",
-    "difficulty": "hard"
   },
   {
     "question": "Who holds the 49ers franchise record for career passing yards?",
@@ -6072,18 +5076,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "Who was the first 49ers player to have his jersey number retired?",
-    "options": [
-      "Joe Montana (#16)",
-      "Jerry Rice (#80)",
-      "John Brodie (#12)",
-      "Joe Perry (#34)"
-    ],
-    "answer": "John Brodie (#12)",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
     "question": "How many total jersey numbers have the 49ers retired (entering 2026)?",
     "options": [
       "7",
@@ -6118,18 +5110,6 @@
     "answer": "Justin Smith",
     "category": "History",
     "difficulty": "medium"
-  },
-  {
-    "question": "What was the name of the 49ers' famous goal-line stand in Super Bowl XVI?",
-    "options": [
-      "The Goal Line Stand",
-      "The Red Zone Stop",
-      "The Stand at the Silverdome",
-      "The Bengals Brick Wall"
-    ],
-    "answer": "The Goal Line Stand",
-    "category": "History",
-    "difficulty": "hard"
   },
   {
     "question": "In which decade did the 49ers fail to make the playoffs the most times?",
@@ -6276,30 +5256,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "Which legendary 49ers defensive tackle was known as 'Leo the Lion' and played from 1950 to 1963?",
-    "options": [
-      "Charlie Krueger",
-      "Leo Nomellini",
-      "Bob St. Clair",
-      "Dave Wilcox"
-    ],
-    "answer": "Leo Nomellini",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which Hall of Fame offensive tackle played for the 49ers from 1953 to 1963 and was famous for eating raw meat?",
-    "options": [
-      "Bob St. Clair",
-      "Leo Nomellini",
-      "Len Rohde",
-      "Bruce Bosley"
-    ],
-    "answer": "Bob St. Clair",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
     "question": "What was the nickname of the 49ers' defense during the 2019 season?",
     "options": [
       "The Red Storm",
@@ -6308,18 +5264,6 @@
       "No official widely-used nickname"
     ],
     "answer": "No official widely-used nickname",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "In which stadium did the 49ers play Super Bowl XVI?",
-    "options": [
-      "Rose Bowl",
-      "Pontiac Silverdome",
-      "Louisiana Superdome",
-      "Stanford Stadium"
-    ],
-    "answer": "Pontiac Silverdome",
     "category": "History",
     "difficulty": "hard"
   },
@@ -6514,18 +5458,6 @@
     "answer": "Aldon Smith",
     "category": "History",
     "difficulty": "medium"
-  },
-  {
-    "question": "In what year did Fred Dean, traded to the 49ers mid-season, help spark their first Super Bowl run?",
-    "options": [
-      "1980",
-      "1981",
-      "1982",
-      "1983"
-    ],
-    "answer": "1981",
-    "category": "History",
-    "difficulty": "hard"
   },
   {
     "question": "Which 49ers player was traded to the Cowboys in 1988 and later helped Dallas win Super Bowls?",
@@ -7020,18 +5952,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "What was the 49ers' first year playing at Kezar Stadium?",
-    "options": [
-      "1946",
-      "1948",
-      "1950",
-      "1952"
-    ],
-    "answer": "1946",
-    "category": "History",
-    "difficulty": "medium"
-  },
-  {
     "question": "The 49ers hold the record for most consecutive road wins in a single season (2019). How many?",
     "options": [
       "6",
@@ -7066,18 +5986,6 @@
     "answer": "2-14",
     "category": "History",
     "difficulty": "medium"
-  },
-  {
-    "question": "In 1957, the 49ers scored how many points in one quarter against the Lions, setting an NFL record at the time?",
-    "options": [
-      "28",
-      "31",
-      "35",
-      "38"
-    ],
-    "answer": "35",
-    "category": "History",
-    "difficulty": "hard"
   },
   {
     "question": "Steve Young was originally acquired by the 49ers in a 1987 trade with which team?",
@@ -7164,42 +6072,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "Who was the first quarterback to start for the 49ers in the AAFC?",
-    "options": [
-      "Y.A. Tittle",
-      "Frankie Albert",
-      "John Brodie",
-      "Bob Waters"
-    ],
-    "answer": "Frankie Albert",
-    "category": "History",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Frankie Albert became the 49ers' head coach in which year?",
-    "options": [
-      "1954",
-      "1956",
-      "1958",
-      "1960"
-    ],
-    "answer": "1956",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers player was the first to rush for over 1,000 yards in consecutive NFL seasons?",
-    "options": [
-      "Hugh McElhenny",
-      "Joe Perry",
-      "Roger Craig",
-      "Frank Gore"
-    ],
-    "answer": "Joe Perry",
-    "category": "History",
-    "difficulty": "hard"
-  },
-  {
     "question": "How many Super Bowls have the San Francisco 49ers won?",
     "options": [
       "4",
@@ -7210,54 +6082,6 @@
     "answer": "5",
     "category": "Super Bowls",
     "difficulty": "easy"
-  },
-  {
-    "question": "What team did the 49ers defeat in Super Bowl XVI?",
-    "options": [
-      "Miami Dolphins",
-      "Cincinnati Bengals",
-      "Denver Broncos",
-      "San Diego Chargers"
-    ],
-    "answer": "Cincinnati Bengals",
-    "category": "Super Bowls",
-    "difficulty": "easy"
-  },
-  {
-    "question": "What was the final score of Super Bowl XVI?",
-    "options": [
-      "26-21 49ers",
-      "28-14 49ers",
-      "20-16 49ers",
-      "38-16 49ers"
-    ],
-    "answer": "26-21 49ers",
-    "category": "Super Bowls",
-    "difficulty": "medium"
-  },
-  {
-    "question": "In which city was Super Bowl XVI played?",
-    "options": [
-      "New Orleans",
-      "Pasadena",
-      "Pontiac",
-      "Miami"
-    ],
-    "answer": "Pontiac",
-    "category": "Super Bowls",
-    "difficulty": "medium"
-  },
-  {
-    "question": "What stadium hosted Super Bowl XVI?",
-    "options": [
-      "Rose Bowl",
-      "Superdome",
-      "Pontiac Silverdome",
-      "Orange Bowl"
-    ],
-    "answer": "Pontiac Silverdome",
-    "category": "Super Bowls",
-    "difficulty": "medium"
   },
   {
     "question": "Who did the 49ers beat in Super Bowl XIX?",
@@ -7364,30 +6188,6 @@
       "Pittsburgh Steelers"
     ],
     "answer": "San Diego Chargers",
-    "category": "Super Bowls",
-    "difficulty": "easy"
-  },
-  {
-    "question": "In which season did the 49ers win their first Super Bowl?",
-    "options": [
-      "1980",
-      "1981",
-      "1982",
-      "1983"
-    ],
-    "answer": "1981",
-    "category": "Super Bowls",
-    "difficulty": "easy"
-  },
-  {
-    "question": "Who coached the 49ers to their first Super Bowl victory?",
-    "options": [
-      "George Seifert",
-      "Bill Walsh",
-      "Dick Nolan",
-      "Monte Clark"
-    ],
-    "answer": "Bill Walsh",
     "category": "Super Bowls",
     "difficulty": "easy"
   },
@@ -7620,30 +6420,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "In Super Bowl XVI, how many turnovers did the 49ers force?",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers player had two interceptions in Super Bowl XVI?",
-    "options": [
-      "Ronnie Lott",
-      "Eric Wright",
-      "Dwight Hicks",
-      "Carlton Williamson"
-    ],
-    "answer": "Eric Wright",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
     "question": "What was the halftime score of Super Bowl XLVII before the power outage?",
     "options": [
       "21-6 Ravens",
@@ -7668,18 +6444,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "What date was Super Bowl XVI played?",
-    "options": [
-      "January 10, 1982",
-      "January 24, 1982",
-      "January 20, 1982",
-      "January 30, 1982"
-    ],
-    "answer": "January 24, 1982",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
     "question": "What date was Super Bowl XIX played?",
     "options": [
       "January 15, 1985",
@@ -7690,18 +6454,6 @@
     "answer": "January 20, 1985",
     "category": "Super Bowls",
     "difficulty": "hard"
-  },
-  {
-    "question": "Which opposing quarterback did the 49ers face in Super Bowl XVI?",
-    "options": [
-      "Boomer Esiason",
-      "Ken Anderson",
-      "Dan Fouts",
-      "Terry Bradshaw"
-    ],
-    "answer": "Ken Anderson",
-    "category": "Super Bowls",
-    "difficulty": "medium"
   },
   {
     "question": "Which opposing quarterback did the 49ers face in Super Bowl XIX?",
@@ -7788,18 +6540,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "How many passing yards did Joe Montana throw for in Super Bowl XVI?",
-    "options": [
-      "157",
-      "175",
-      "210",
-      "250"
-    ],
-    "answer": "157",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
     "question": "In Super Bowl XIX, how many rushing yards did Joe Montana have?",
     "options": [
       "19",
@@ -7844,30 +6584,6 @@
       "38 yards"
     ],
     "answer": "44 yards",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers defender returned a fumble for a touchdown in Super Bowl XVI?",
-    "options": [
-      "Ronnie Lott",
-      "Dwight Hicks",
-      "Eric Wright",
-      "Carlton Williamson"
-    ],
-    "answer": "Eric Wright",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
-    "question": "In which quarter did the 49ers score 20 unanswered points in Super Bowl XVI?",
-    "options": [
-      "First half",
-      "Third quarter",
-      "Second half",
-      "Fourth quarter"
-    ],
-    "answer": "First half",
     "category": "Super Bowls",
     "difficulty": "hard"
   },
@@ -7940,18 +6656,6 @@
       "44 seconds"
     ],
     "answer": "34 seconds",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which 49er scored the first touchdown in franchise Super Bowl history in Super Bowl XVI?",
-    "options": [
-      "Joe Montana",
-      "Earl Cooper",
-      "Freddie Solomon",
-      "Johnny Davis"
-    ],
-    "answer": "Earl Cooper",
     "category": "Super Bowls",
     "difficulty": "hard"
   },
@@ -8340,30 +7044,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "Which team did the 49ers beat in the 1981 NFC Championship to reach Super Bowl XVI?",
-    "options": [
-      "Philadelphia Eagles",
-      "Dallas Cowboys",
-      "Minnesota Vikings",
-      "Tampa Bay Buccaneers"
-    ],
-    "answer": "Dallas Cowboys",
-    "category": "Super Bowls",
-    "difficulty": "medium"
-  },
-  {
-    "question": "What famous play helped the 49ers reach Super Bowl XVI by winning the 1981 NFC Championship?",
-    "options": [
-      "The Drive",
-      "The Catch",
-      "The Fumble",
-      "The Tackle"
-    ],
-    "answer": "The Catch",
-    "category": "Super Bowls",
-    "difficulty": "easy"
-  },
-  {
     "question": "Which team did the 49ers beat in the 1988 NFC Championship Game to advance to Super Bowl XXIII?",
     "options": [
       "Chicago Bears",
@@ -8652,18 +7332,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "What was the 49ers' regular season record in the 1981 season before Super Bowl XVI?",
-    "options": [
-      "11-5",
-      "12-4",
-      "13-3",
-      "14-2"
-    ],
-    "answer": "13-3",
-    "category": "Super Bowls",
-    "difficulty": "medium"
-  },
-  {
     "question": "What was the 49ers' regular season record in the 1994 season before Super Bowl XXIX?",
     "options": [
       "12-4",
@@ -8806,66 +7474,6 @@
     "answer": "George Seifert",
     "category": "Super Bowls",
     "difficulty": "easy"
-  },
-  {
-    "question": "In Super Bowl XVI, how many points did the 49ers score in the first half?",
-    "options": [
-      "14",
-      "17",
-      "20",
-      "24"
-    ],
-    "answer": "20",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which team had more total yards in Super Bowl XVI?",
-    "options": [
-      "49ers",
-      "Bengals",
-      "They were equal",
-      "Neither topped 300"
-    ],
-    "answer": "Bengals",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Who was the 49ers' kicker in Super Bowl XVI?",
-    "options": [
-      "Ray Wersching",
-      "Mike Cofer",
-      "Jeff Wilkins",
-      "Max Zendejas"
-    ],
-    "answer": "Ray Wersching",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many field goals did Ray Wersching kick in Super Bowl XVI?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "2",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Who were the 49ers' starting cornerbacks in Super Bowl XVI?",
-    "options": [
-      "Lott and Wright",
-      "Wright and Hicks",
-      "Lott and Williamson",
-      "Hicks and Williamson"
-    ],
-    "answer": "Lott and Wright",
-    "category": "Super Bowls",
-    "difficulty": "hard"
   },
   {
     "question": "Which quarterback holds the record for most Super Bowl MVP awards with three?",
@@ -9060,18 +7668,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "Who caught a 7-yard touchdown pass from Montana in the first quarter of Super Bowl XVI?",
-    "options": [
-      "Earl Cooper",
-      "Freddie Solomon",
-      "Dwight Clark",
-      "Charlie Young"
-    ],
-    "answer": "Earl Cooper",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
     "question": "In Super Bowl XIX, how many passing touchdowns did Dan Marino throw?",
     "options": [
       "0",
@@ -9180,30 +7776,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "Who was the head coach of the Bengals in both Super Bowl XVI and Super Bowl XXIII against the 49ers?",
-    "options": [
-      "Sam Wyche",
-      "Forrest Gregg",
-      "Different coaches each time",
-      "Dave Shula"
-    ],
-    "answer": "Different coaches each time",
-    "category": "Super Bowls",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Who coached the Cincinnati Bengals in Super Bowl XVI?",
-    "options": [
-      "Sam Wyche",
-      "Forrest Gregg",
-      "Bill Johnson",
-      "Paul Brown"
-    ],
-    "answer": "Forrest Gregg",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
     "question": "Who coached the Cincinnati Bengals in Super Bowl XXIII?",
     "options": [
       "Forrest Gregg",
@@ -9240,30 +7812,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "Which 49ers player led the team in tackles in Super Bowl XVI?",
-    "options": [
-      "Jack Reynolds",
-      "Keena Turner",
-      "Dan Bunz",
-      "Bobby Leopold"
-    ],
-    "answer": "Dan Bunz",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Dan Bunz made a famous goal-line tackle in Super Bowl XVI against which Bengals player?",
-    "options": [
-      "Pete Johnson",
-      "Charles Alexander",
-      "Archie Griffin",
-      "David Verser"
-    ],
-    "answer": "Charles Alexander",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
     "question": "In Super Bowl LIV, how many rushing yards did the 49ers have?",
     "options": [
       "98",
@@ -9274,18 +7822,6 @@
     "answer": "141",
     "category": "Super Bowls",
     "difficulty": "hard"
-  },
-  {
-    "question": "Super Bowl XVI was the first Super Bowl held in a northern city. True or false?",
-    "options": [
-      "True",
-      "False",
-      "It was the second",
-      "It was held in a dome but warm city"
-    ],
-    "answer": "True",
-    "category": "Super Bowls",
-    "difficulty": "medium"
   },
   {
     "question": "In what decade did the 49ers win the most Super Bowls?",
@@ -9372,18 +7908,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "The 49ers' five Super Bowl wins were achieved in a span from 1982 to what year?",
-    "options": [
-      "1993",
-      "1994",
-      "1995",
-      "1996"
-    ],
-    "answer": "1995",
-    "category": "Super Bowls",
-    "difficulty": "medium"
-  },
-  {
     "question": "In Super Bowl XLVII, how many total yards did Kaepernick have?",
     "options": [
       "238",
@@ -9466,18 +7990,6 @@
     "answer": "Super Bowl XXIV (55 points)",
     "category": "Super Bowls",
     "difficulty": "easy"
-  },
-  {
-    "question": "How many interceptions did the 49ers' defense record in Super Bowl XVI?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": "2",
-    "category": "Super Bowls",
-    "difficulty": "hard"
   },
   {
     "question": "Which 49ers player wore number 33 and played in Super Bowls XIX, XXIII, and XXIV?",
@@ -9780,30 +8292,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "Who scored the only rushing touchdown for the 49ers in Super Bowl XVI?",
-    "options": [
-      "Joe Montana",
-      "Ricky Patton",
-      "Earl Cooper",
-      "Johnny Davis"
-    ],
-    "answer": "Johnny Davis",
-    "category": "Super Bowls",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Who was the first head coach in San Francisco 49ers history?",
-    "options": [
-      "Buck Shaw",
-      "Red Strader",
-      "Frankie Albert",
-      "Bill Walsh"
-    ],
-    "answer": "Buck Shaw",
-    "category": "Coaches",
-    "difficulty": "easy"
-  },
-  {
     "question": "How many Super Bowls did Bill Walsh win as head coach of the 49ers?",
     "options": [
       "2",
@@ -9864,18 +8352,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "What year did Bill Walsh become head coach of the 49ers?",
-    "options": [
-      "1977",
-      "1978",
-      "1979",
-      "1981"
-    ],
-    "answer": "1979",
-    "category": "Coaches",
-    "difficulty": "easy"
-  },
-  {
     "question": "Which coach succeeded Bill Walsh after the 1988 season?",
     "options": [
       "Steve Mariucci",
@@ -9896,18 +8372,6 @@
       "2018"
     ],
     "answer": "2017",
-    "category": "Coaches",
-    "difficulty": "easy"
-  },
-  {
-    "question": "What was Bill Walsh's first Super Bowl victory season with the 49ers?",
-    "options": [
-      "1979",
-      "1980",
-      "1981",
-      "1982"
-    ],
-    "answer": "1981",
     "category": "Coaches",
     "difficulty": "easy"
   },
@@ -9972,18 +8436,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "Buck Shaw coached the 49ers from 1946 until what year?",
-    "options": [
-      "1950",
-      "1952",
-      "1954",
-      "1956"
-    ],
-    "answer": "1954",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
     "question": "What was Jim Harbaugh's final season as 49ers head coach?",
     "options": [
       "2012",
@@ -10044,18 +8496,6 @@
     "difficulty": "easy"
   },
   {
-    "question": "Which 49ers head coach was a former player for the team who quarterbacked them in the AAFC?",
-    "options": [
-      "Buck Shaw",
-      "Frankie Albert",
-      "Red Strader",
-      "Dick Nolan"
-    ],
-    "answer": "Frankie Albert",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
     "question": "Jim Harbaugh's 49ers lost Super Bowl XLVII to which team?",
     "options": [
       "New York Giants",
@@ -10090,150 +8530,6 @@
     "answer": "102-63-1",
     "category": "Coaches",
     "difficulty": "hard"
-  },
-  {
-    "question": "Red Hickey is credited with pioneering which offensive formation during his time with the 49ers?",
-    "options": [
-      "I-Formation",
-      "Wishbone",
-      "Shotgun Formation",
-      "Pistol Formation"
-    ],
-    "answer": "Shotgun Formation",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Dick Nolan coached the 49ers from 1968 to what year?",
-    "options": [
-      "1973",
-      "1974",
-      "1975",
-      "1976"
-    ],
-    "answer": "1975",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "How many NFC Championship Games did Dick Nolan lead the 49ers to?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": "3",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Jack Christiansen coached the 49ers from 1963 to what year?",
-    "options": [
-      "1965",
-      "1966",
-      "1967",
-      "1968"
-    ],
-    "answer": "1967",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Monte Clark served as 49ers head coach for only which season?",
-    "options": [
-      "1975",
-      "1976",
-      "1977",
-      "1978"
-    ],
-    "answer": "1976",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Ken Meyer's lone season as 49ers head coach was which year?",
-    "options": [
-      "1976",
-      "1977",
-      "1978",
-      "1979"
-    ],
-    "answer": "1977",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Pete McCulley was fired during which season as 49ers head coach?",
-    "options": [
-      "1977",
-      "1978",
-      "1979",
-      "1980"
-    ],
-    "answer": "1978",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Who replaced Pete McCulley as interim head coach for the remainder of the 1978 season?",
-    "options": [
-      "Bill Walsh",
-      "Fred O'Connor",
-      "Ken Meyer",
-      "Monte Clark"
-    ],
-    "answer": "Fred O'Connor",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Red Strader coached the 49ers for only one season in what year?",
-    "options": [
-      "1954",
-      "1955",
-      "1956",
-      "1957"
-    ],
-    "answer": "1955",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Frankie Albert coached the 49ers from 1956 to what year?",
-    "options": [
-      "1957",
-      "1958",
-      "1959",
-      "1960"
-    ],
-    "answer": "1958",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Red Hickey began coaching the 49ers in what year?",
-    "options": [
-      "1957",
-      "1958",
-      "1959",
-      "1960"
-    ],
-    "answer": "1959",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "In what year did Red Hickey leave the 49ers coaching position?",
-    "options": [
-      "1961",
-      "1962",
-      "1963",
-      "1964"
-    ],
-    "answer": "1963",
-    "category": "Coaches",
-    "difficulty": "medium"
   },
   {
     "question": "George Seifert's first Super Bowl win as 49ers coach came in which season?",
@@ -10560,66 +8856,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "Dick Nolan's 49ers lost the 1970 NFC Championship Game to which team?",
-    "options": [
-      "Minnesota Vikings",
-      "Dallas Cowboys",
-      "Los Angeles Rams",
-      "Washington Redskins"
-    ],
-    "answer": "Dallas Cowboys",
-    "category": "Coaches",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Dick Nolan's 49ers lost the 1971 NFC Championship Game to which team?",
-    "options": [
-      "Minnesota Vikings",
-      "Dallas Cowboys",
-      "Los Angeles Rams",
-      "Washington Redskins"
-    ],
-    "answer": "Dallas Cowboys",
-    "category": "Coaches",
-    "difficulty": "hard"
-  },
-  {
-    "question": "In which league did Buck Shaw coach the 49ers before the NFL merger?",
-    "options": [
-      "AFL",
-      "AAFC",
-      "USFL",
-      "WFL"
-    ],
-    "answer": "AAFC",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Buck Shaw later won an NFL championship as head coach of which team?",
-    "options": [
-      "Baltimore Colts",
-      "Philadelphia Eagles",
-      "Chicago Bears",
-      "Cleveland Browns"
-    ],
-    "answer": "Philadelphia Eagles",
-    "category": "Coaches",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What innovative play design is Bill Walsh famous for using to beat the Dallas Cowboys in the 1981 NFC Championship?",
-    "options": [
-      "Statue of Liberty",
-      "Flea Flicker",
-      "Sprint Right Option",
-      "Hook and Lateral"
-    ],
-    "answer": "Sprint Right Option",
-    "category": "Coaches",
-    "difficulty": "hard"
-  },
-  {
     "question": "Kyle Shanahan's 49ers lost Super Bowl LVIII to which team?",
     "options": [
       "Baltimore Ravens",
@@ -10812,78 +9048,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "How many games did Pete McCulley win as 49ers head coach in 1978?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": "1",
-    "category": "Coaches",
-    "difficulty": "hard"
-  },
-  {
-    "question": "How many games did Fred O'Connor win as interim 49ers head coach in 1978?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": "1",
-    "category": "Coaches",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Dick Nolan had previously served as a defensive assistant with which NFC rival before becoming 49ers coach?",
-    "options": [
-      "Los Angeles Rams",
-      "Dallas Cowboys",
-      "Green Bay Packers",
-      "Chicago Bears"
-    ],
-    "answer": "Dallas Cowboys",
-    "category": "Coaches",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Under which head coach did the 49ers first use the shotgun formation regularly in the early 1960s?",
-    "options": [
-      "Buck Shaw",
-      "Red Hickey",
-      "Frankie Albert",
-      "Jack Christiansen"
-    ],
-    "answer": "Red Hickey",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Red Hickey's shotgun formation was eventually countered by which rival team, leading to its decline?",
-    "options": [
-      "Los Angeles Rams",
-      "Chicago Bears",
-      "Green Bay Packers",
-      "Baltimore Colts"
-    ],
-    "answer": "Chicago Bears",
-    "category": "Coaches",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What position did Mike Nolan's father, Dick Nolan, coach for the 49ers?",
-    "options": [
-      "Offensive coordinator",
-      "Defensive coordinator",
-      "Head coach",
-      "Quarterbacks coach"
-    ],
-    "answer": "Head coach",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
     "question": "Kyle Shanahan served as offensive coordinator for which team during Super Bowl LI?",
     "options": [
       "San Francisco 49ers",
@@ -10918,18 +9082,6 @@
     "answer": "Kyle Shanahan",
     "category": "Coaches",
     "difficulty": "hard"
-  },
-  {
-    "question": "Bill Walsh's 49ers defeated which team in Super Bowl XVI?",
-    "options": [
-      "Miami Dolphins",
-      "Cincinnati Bengals",
-      "Dallas Cowboys",
-      "Pittsburgh Steelers"
-    ],
-    "answer": "Cincinnati Bengals",
-    "category": "Coaches",
-    "difficulty": "medium"
   },
   {
     "question": "Bill Walsh's 49ers defeated which team in Super Bowl XIX?",
@@ -10978,18 +9130,6 @@
     "answer": "San Diego Chargers",
     "category": "Coaches",
     "difficulty": "medium"
-  },
-  {
-    "question": "What was Red Strader's record as 49ers head coach in 1955?",
-    "options": [
-      "2-9-1",
-      "3-9",
-      "4-8",
-      "1-11"
-    ],
-    "answer": "4-8",
-    "category": "Coaches",
-    "difficulty": "hard"
   },
   {
     "question": "Which 49ers assistant coach under Bill Walsh became the head coach of the Indianapolis Colts?",
@@ -11050,18 +9190,6 @@
     "answer": "University of Miami",
     "category": "Coaches",
     "difficulty": "medium"
-  },
-  {
-    "question": "Which quarterback did Bill Walsh draft third overall in 1979 to eventually become the face of the franchise?",
-    "options": [
-      "Steve Young",
-      "Jeff Garcia",
-      "Joe Montana",
-      "Phil Simms"
-    ],
-    "answer": "Joe Montana",
-    "category": "Coaches",
-    "difficulty": "easy"
   },
   {
     "question": "Under which coach did the 49ers trade for quarterback Steve Young in 1987?",
@@ -11148,18 +9276,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "In which round of the 1979 NFL Draft did Bill Walsh select Joe Montana?",
-    "options": [
-      "1st round",
-      "2nd round",
-      "3rd round",
-      "4th round"
-    ],
-    "answer": "3rd round",
-    "category": "Coaches",
-    "difficulty": "medium"
-  },
-  {
     "question": "What was Kyle Shanahan's record in his first season (2017) with the 49ers?",
     "options": [
       "2-14",
@@ -11170,18 +9286,6 @@
     "answer": "6-10",
     "category": "Coaches",
     "difficulty": "hard"
-  },
-  {
-    "question": "Which 49ers coach won the AP NFL Coach of the Year award in 1981?",
-    "options": [
-      "George Seifert",
-      "Dick Nolan",
-      "Bill Walsh",
-      "Steve Mariucci"
-    ],
-    "answer": "Bill Walsh",
-    "category": "Coaches",
-    "difficulty": "medium"
   },
   {
     "question": "How many times did Bill Walsh win the AP NFL Coach of the Year?",
@@ -11220,18 +9324,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "Under Bill Walsh, the 49ers won their first ever playoff game in franchise history in January 1982 against which team?",
-    "options": [
-      "Dallas Cowboys",
-      "New York Giants",
-      "Chicago Bears",
-      "Minnesota Vikings"
-    ],
-    "answer": "New York Giants",
-    "category": "Coaches",
-    "difficulty": "hard"
-  },
-  {
     "question": "What was the 49ers' record in Kyle Shanahan's 2023 regular season?",
     "options": [
       "11-6",
@@ -11254,54 +9346,6 @@
     "answer": "Carolina Panthers",
     "category": "Coaches",
     "difficulty": "medium"
-  },
-  {
-    "question": "Which 49ers head coach was the first to be fired midseason in franchise history?",
-    "options": [
-      "Red Hickey",
-      "Jack Christiansen",
-      "Pete McCulley",
-      "Mike Nolan"
-    ],
-    "answer": "Red Hickey",
-    "category": "Coaches",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What stadium did the San Francisco 49ers call home from 1946 to 1970?",
-    "options": [
-      "Candlestick Park",
-      "Kezar Stadium",
-      "Levi's Stadium",
-      "Oracle Park"
-    ],
-    "answer": "Kezar Stadium",
-    "category": "Stadiums",
-    "difficulty": "easy"
-  },
-  {
-    "question": "In which San Francisco park is Kezar Stadium located?",
-    "options": [
-      "Balboa Park",
-      "Golden Gate Park",
-      "McLaren Park",
-      "Presidio"
-    ],
-    "answer": "Golden Gate Park",
-    "category": "Stadiums",
-    "difficulty": "easy"
-  },
-  {
-    "question": "What was the name of the 49ers' home stadium from 1971 to 2013?",
-    "options": [
-      "Kezar Stadium",
-      "Levi's Stadium",
-      "Candlestick Park",
-      "Oracle Park"
-    ],
-    "answer": "Candlestick Park",
-    "category": "Stadiums",
-    "difficulty": "easy"
   },
   {
     "question": "What is the name of the 49ers' current home stadium?",
@@ -11412,18 +9456,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "What was the seating capacity of Kezar Stadium?",
-    "options": [
-      "39,000",
-      "49,000",
-      "59,624",
-      "69,000"
-    ],
-    "answer": "59,624",
-    "category": "Stadiums",
-    "difficulty": "medium"
-  },
-  {
     "question": "Candlestick Park was located on which geographic feature?",
     "options": [
       "Candlestick Point",
@@ -11484,18 +9516,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "What year did Candlestick Park originally open?",
-    "options": [
-      "1958",
-      "1960",
-      "1962",
-      "1964"
-    ],
-    "answer": "1960",
-    "category": "Stadiums",
-    "difficulty": "medium"
-  },
-  {
     "question": "Which MLB team shared Candlestick Park with the 49ers?",
     "options": [
       "Oakland Athletics",
@@ -11518,18 +9538,6 @@
     "answer": "2000",
     "category": "Stadiums",
     "difficulty": "medium"
-  },
-  {
-    "question": "Which famous play occurred at Candlestick Park in the 1981 NFC Championship Game?",
-    "options": [
-      "The Immaculate Reception",
-      "The Catch",
-      "The Drive",
-      "The Fumble"
-    ],
-    "answer": "The Catch",
-    "category": "Stadiums",
-    "difficulty": "easy"
   },
   {
     "question": "Which Super Bowl was held at Levi's Stadium?",
@@ -11616,54 +9624,6 @@
     "difficulty": "hard"
   },
   {
-    "question": "Kezar Stadium was originally built in what year?",
-    "options": [
-      "1921",
-      "1925",
-      "1928",
-      "1932"
-    ],
-    "answer": "1925",
-    "category": "Stadiums",
-    "difficulty": "medium"
-  },
-  {
-    "question": "Kezar Stadium was named after which San Francisco benefactress?",
-    "options": [
-      "Mary Kezar",
-      "Elizabeth Kezar",
-      "Sarah Kezar",
-      "Margaret Kezar"
-    ],
-    "answer": "Mary Kezar",
-    "category": "Stadiums",
-    "difficulty": "hard"
-  },
-  {
-    "question": "What was the last 49ers game played at Kezar Stadium?",
-    "options": [
-      "1969 regular season finale",
-      "1970 regular season finale",
-      "1970 NFC playoff game",
-      "1971 preseason game"
-    ],
-    "answer": "1970 regular season finale",
-    "category": "Stadiums",
-    "difficulty": "hard"
-  },
-  {
-    "question": "After the 49ers left Kezar Stadium, it was eventually demolished and rebuilt at a much smaller capacity. What is the current capacity of the rebuilt Kezar?",
-    "options": [
-      "5,000",
-      "10,000",
-      "15,000",
-      "20,000"
-    ],
-    "answer": "10,000",
-    "category": "Stadiums",
-    "difficulty": "hard"
-  },
-  {
     "question": "The 1989 World Series earthquake interrupted a game at Candlestick Park between which two teams?",
     "options": [
       "49ers and Giants",
@@ -11688,18 +9648,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "Which famous rock band performed the last concert at Candlestick Park in August 1966?",
-    "options": [
-      "The Rolling Stones",
-      "The Beatles",
-      "The Who",
-      "Led Zeppelin"
-    ],
-    "answer": "The Beatles",
-    "category": "Stadiums",
-    "difficulty": "easy"
-  },
-  {
     "question": "Paul McCartney performed the final musical event at Candlestick Park in August of which year, commemorating the Beatles' last concert there?",
     "options": [
       "2012",
@@ -11712,18 +9660,6 @@
     "difficulty": "medium"
   },
   {
-    "question": "What notable weather event during the 1961 All-Star Game at Candlestick Park embarrassed the city?",
-    "options": [
-      "A hailstorm",
-      "Gale-force winds blew a pitcher off the mound",
-      "Dense fog cancelled the game",
-      "A rain delay of 4 hours"
-    ],
-    "answer": "Gale-force winds blew a pitcher off the mound",
-    "category": "Stadiums",
-    "difficulty": "hard"
-  },
-  {
     "question": "During which decade was Candlestick Park enclosed (upper deck completed) for football?",
     "options": [
       "1960s",
@@ -11732,18 +9668,6 @@
       "1990s"
     ],
     "answer": "1970s",
-    "category": "Stadiums",
-    "difficulty": "medium"
-  },
-  {
-    "question": "The enclosure of Candlestick Park was completed in 1971 primarily to accommodate which sport?",
-    "options": [
-      "Baseball",
-      "Football",
-      "Soccer",
-      "Track and Field"
-    ],
-    "answer": "Football",
     "category": "Stadiums",
     "difficulty": "medium"
   },
@@ -11938,42 +9862,6 @@
     "answer": "Extra-inning night baseball games",
     "category": "Stadiums",
     "difficulty": "hard"
-  },
-  {
-    "question": "What year was Kezar Stadium renovated and reduced in size?",
-    "options": [
-      "1985",
-      "1989",
-      "1990",
-      "1993"
-    ],
-    "answer": "1989",
-    "category": "Stadiums",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Which NFL Championship Game was hosted at Kezar Stadium?",
-    "options": [
-      "1949 NFL Championship",
-      "1957 NFL Championship",
-      "1962 NFL Championship",
-      "None - Kezar never hosted a championship"
-    ],
-    "answer": "None - Kezar never hosted a championship",
-    "category": "Stadiums",
-    "difficulty": "hard"
-  },
-  {
-    "question": "Kezar Stadium is located at the southeastern corner of Golden Gate Park, near which San Francisco neighborhood?",
-    "options": [
-      "The Mission",
-      "The Haight",
-      "The Richmond",
-      "The Sunset"
-    ],
-    "answer": "The Haight",
-    "category": "Stadiums",
-    "difficulty": "medium"
   },
   {
     "question": "What was the playing surface at Candlestick Park?",
